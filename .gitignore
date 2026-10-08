@@ -71,3 +71,6 @@ rag/
 # LLM API keys
 *.key
 *.secret
+
+#文件
+resume_docs/
